@@ -19,3 +19,6 @@ O projeto foi desenvolvido com foco no aprendizado, organização do código e c
   <li>Exibe os resultados de forma clara no terminal</li>
 </ul>
 
+<div align="center">
+<img width="500" height="634" alt="Image" src="https://github.com/user-attachments/assets/fd20d3be-ceb3-4b5a-ad22-60137ffc8e55" />
+</div>
