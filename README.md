@@ -17,6 +17,5 @@ O projeto foi desenvolvido com foco no aprendizado, organização do código e c
   <li>Realiza operações matemáticas básicas (adição, subtração, multiplicação e divisão)</li>
   <li>Recebe dados via entrada do usuário</li>
   <li>Exibe os resultados de forma clara no terminal</li>
-  <li>Código organizado e de fácil entendimento</li>
 </ul>
 
